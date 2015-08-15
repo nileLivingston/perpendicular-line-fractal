@@ -1,4 +1,4 @@
-# perpendicular-line-fractal
+# toothpick-sequence
 An implementation of a perpendicular line fractal.
 
 Idea courtesy of http://classymathematics.tumblr.com
